@@ -1,5 +1,8 @@
 # football-data
 
+
+## Description of available data
+
 This aim of this project is to provide results & odds for various soccer league.
 For now, the following data are available :
 - England Premier League (from 2009/2010 to 2023/2024)
@@ -31,7 +34,12 @@ with :
 - under_2.5_open  : average opening odd for under 2.5 goals
 
 
-Odds have been extracted from various bookmakers among 10bet, 888sport, bet365, betsafe, bwin, william hill,sbobet and pinnacle.
+Odds have been extracted from various bookmakers among 10bet, 888sport, Bet365, Betsafe, Bwin, William Hill,Sbobet and Pinnacle.
 Only average odd is provided in this first version.
+
+For each league, data are proposed in csv and parquet format.
     
 Don't hesitate to open an issue if you find some errors or if you have some requests. 
+
+
+## Exemple of utilisation
