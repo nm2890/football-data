@@ -42,6 +42,6 @@ For each league, data are proposed in csv and parquet format.
 Don't hesitate to open an issue if you find some errors or if you have some requests. 
 
 
-## Example of utilisation
+## Use example
 
 ![image info](img/example.jpg)
