@@ -3,13 +3,16 @@
 
 ## Description of available data
 
-This aim of this project is to provide results & odds for various soccer league.
+The aim of this project is to provide results & odds for various soccer league.
 For now, the following data are available :
 - England Premier League (from 2009/2010 to 2023/2024)
 - Spain La Liga (from 2009/2010 to 2023/2024)
 - Italy Serie A (from 2009/2010 to 2023/2024)
 - Germany Bundesliga (from 2009/2010 to 2023/2024)
 - France Ligue 1 (from 2009/2010 to 2023/2024)
+- Belgium Pro League (from 2009/2010 to 2023/2024)
+- Netherlands Eredivisie (from 2009/2010 to 2023/2024)
+- Egypt Premier League (from 2009/2010 to 2023/2024)
 
 The format is the following : 
 
@@ -22,6 +25,8 @@ with :
 - AwayTeam
 - FTHG : Full-time home goals
 - FTAG : Full-time away goals
+- HTHG : Half-time away goals
+- HTAG : Half-time away goals
 - home_close : average closing odd for home team
 - home_open : average opening odd for home team
 - draw_close : average closing odd for draw
@@ -44,4 +49,6 @@ Don't hesitate to open an issue if you find some errors or if you have some requ
 
 ## Use example
 
-![image info](img/example.jpg)
+![image info](img/example_1x2.jpg)
+
+![image info](img/example_ou.jpg)
