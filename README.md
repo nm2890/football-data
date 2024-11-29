@@ -45,6 +45,7 @@ with :
 
 Odds have been extracted from various bookmakers among 10bet, 888sport, Bet365, Betsafe, Bwin, William Hill,Sbobet and Pinnacle.
 Only average odd is provided in this first version.
+
 BTS odds are only available since season 2012/2013.
 
 For each league, data are proposed in csv and parquet format.
